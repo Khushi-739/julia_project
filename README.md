@@ -1,1 +1,1 @@
-Collaborating on a remote research project using Julia SciML to integrate AI/ML with physics for modeling and controlling robotic arm kinematics.
+Collaborating with Dr. Clément Coïc on a remote research project focused on integrating AI/ML with physics using Julia SciML to model and control a 3D robotic arm for kinematic simulations.
